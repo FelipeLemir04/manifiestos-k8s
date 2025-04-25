@@ -1,8 +1,12 @@
 Herramientas y tecnologías utilizadas:
 Minikube
+
 kubectl
+
 Git y GitHub
+
 Visual Studio Code
+
 Docker
 
 Pasos para realizar el trabaj:
